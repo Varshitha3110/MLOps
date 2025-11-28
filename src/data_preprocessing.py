@@ -8,9 +8,6 @@ import string
 import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
-nltk.download('punkt_tab')
-nltk.download('tokenizers')
-
 
 # Ensure the "logs" directory exists
 log_dir = 'logs'
